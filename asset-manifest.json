@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-First-ReactJS-Website/static/css/main.3fe2f89c.chunk.css",
+    "main.js": "/My-First-ReactJS-Website/static/js/main.d4a3da25.chunk.js",
+    "main.js.map": "/My-First-ReactJS-Website/static/js/main.d4a3da25.chunk.js.map",
+    "runtime-main.js": "/My-First-ReactJS-Website/static/js/runtime-main.169b8115.js",
+    "runtime-main.js.map": "/My-First-ReactJS-Website/static/js/runtime-main.169b8115.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/My-First-ReactJS-Website/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.59da76ad.chunk.js": "/My-First-ReactJS-Website/static/js/2.59da76ad.chunk.js",
+    "static/js/2.59da76ad.chunk.js.map": "/My-First-ReactJS-Website/static/js/2.59da76ad.chunk.js.map",
+    "index.html": "/My-First-ReactJS-Website/index.html",
+    "precache-manifest.00ae58514c659dfb80747856376e53e6.js": "/My-First-ReactJS-Website/precache-manifest.00ae58514c659dfb80747856376e53e6.js",
+    "service-worker.js": "/My-First-ReactJS-Website/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/My-First-ReactJS-Website/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.3fe2f89c.chunk.css.map": "/My-First-ReactJS-Website/static/css/main.3fe2f89c.chunk.css.map",
+    "static/js/2.59da76ad.chunk.js.LICENSE.txt": "/My-First-ReactJS-Website/static/js/2.59da76ad.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/My-First-ReactJS-Website/static/media/1.59a4799f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.169b8115.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.59da76ad.chunk.js",
+    "static/css/main.3fe2f89c.chunk.css",
+    "static/js/main.d4a3da25.chunk.js"
+  ]
+}
